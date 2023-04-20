@@ -47,7 +47,7 @@ header > h1{
     
     color: white;
     font-family: var(--fonte-destaque);
-    margin-bottom: 15px;
+    padding-bottom: 15px;
     font-size: 3em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.266);
     font-weight: normal;
@@ -62,9 +62,9 @@ header > p{
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 10px;
+    padding-bottom: 30px; 
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.507);
-
+     
 }
 
 nav{
@@ -96,7 +96,7 @@ nav{
 
 main{
 
-    padding: 8px;
+    padding: 20px;
     background-color: white;
     max-width: 1000px;
     min-width: 300px;
